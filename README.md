@@ -9,6 +9,8 @@ This project could be installed anywhere, but I suggest in a user folder to ease
 - Triggers scripts are placed on `triggers` folders (currently only supports wifi, more to be added)
 - Actions scripts are placed following this structure `<trigger_name>/<wifi_name>` and all scripts will be executed (only with execution permissions)
 
+**Note:** Under `wifi` folder are two sub-folders you must change the name (case sensitve) to match your Home and office SSID network names.
+
 ### Prerequisites
 
 - OSX with Bash
